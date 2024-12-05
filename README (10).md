@@ -13,6 +13,10 @@ step3
 ```
 ./get_helm.sh
 ```
+Command to check the Helm version
+```
+helm version
+```
 
 
 
